@@ -1,13 +1,11 @@
-## Branching Strategy
+Branching Strategy
 Branching strategy means how we manage different branches in Git for development and releases.
 
 There are mainly 4 branches:
 1. Development Branch
-   
 In this branch, latest development code is maintained here.
 
 2. Release Branch
-   
 we create a release branch for every new release. so, We use this branch for final testing and release activities.
 
 3. Feature Branch
