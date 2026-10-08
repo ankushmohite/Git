@@ -1,4 +1,4 @@
-A Version Control System is a tool used to track and manage changes in code.
+A Version Control System is a tool used to track and manage code.
 
 1. CVCS:
 
