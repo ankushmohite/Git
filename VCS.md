@@ -39,7 +39,7 @@ git merge is use to merge two different branchs.
 
 ## Pull Request.
 
-A Pull Request is use to merge code changes from one branch into another branch.
+A Pull Request is use to merge code from one branch into another branch.
 
 
 Last week in my organization there was a feature branch create. so, developer work on new feature branch and that feature branch merge with current release branch.
