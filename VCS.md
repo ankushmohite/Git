@@ -20,3 +20,19 @@ It's allow developer to store code and manage different version of code.
 ## Repository:
 
 Repository is a place that helps you to store and manage different version of code.
+
+
+
+## git reset.
+git reset is used to go back to a previous commit.
+git reset --hard HEAD~1
+
+## git revert.
+git revert is used to undo the changes of a commit.
+git revert <commit-id>
+
+
+
+git rebase is use to make all commit history in liner.
+
+git merge is use to merge two different branchs.
