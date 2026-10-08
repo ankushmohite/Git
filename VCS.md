@@ -31,6 +31,11 @@ git reset --hard HEAD~1
 git revert is used to undo the changes of a commit.
 git revert <commit-id>
 
+## git rebase.
+git rebase is use to make all commit history in liner.
+
+## git merge.
+git merge is use to merge two different branchs.
 
 ## Pull Request.
 
@@ -40,8 +45,7 @@ A Pull Request is use to merge code changes from one branch into another branch.
 Last week in my organization there was a feature branch create. so, developer work on new feature branch and that feature branch merge with current release branch.
 So, in that situation we have use pull request to merge the feature branch to main branch.
 
-## git rebase.
-git rebase is use to make all commit history in liner.
 
-## git merge.
-git merge is use to merge two different branchs.
+
+## Daily involvement in scrum.
+So, whatever task are assign to me. if i have any quires, which task i am going to do. I will discuss in the scrum meeting.  
