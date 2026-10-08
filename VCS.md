@@ -43,7 +43,7 @@ A Pull Request is use to merge code from one branch into another branch.
 
 
 At last week in my organization there was a feature branch create. so, developer work on new feature branch and that feature branch merge with current release branch.
-So, in that situation we have use pull request from feature branch to main branch.
+So, we use pull request from feature branch to main branch.
 
 
 
