@@ -32,7 +32,8 @@ git revert is used to undo the changes of a commit.
 git revert <commit-id>
 
 
-
+## git rebase.
 git rebase is use to make all commit history in liner.
 
+## git merge.
 git merge is use to merge two different branchs.
