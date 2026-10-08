@@ -32,6 +32,14 @@ git revert is used to undo the changes of a commit.
 git revert <commit-id>
 
 
+## Pull Request.
+
+A Pull Request is use to merge code changes from one branch into another branch.
+
+
+Last week in my organization there was a feature branch create. so, developer work on new feature branch and that feature branch merge with current release branch.
+So, in that situation we have use pull request to merge the feature branch to main branch.
+
 ## git rebase.
 git rebase is use to make all commit history in liner.
 
