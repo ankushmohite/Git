@@ -1,19 +1,19 @@
 # Python Dockerfile
 
 ```dockerfile
-FROM python:3.12
+FROM python:3.12  ## 	Downloads Python 3.12 base image.
 
-WORKDIR /app
+WORKDIR /app      ## sets the working directory inside the container.
 
-COPY requirements.txt .
+COPY requirements.txt .  ## Copies the requirements file into the container. ## Stores all Python dependencies required by the application.
 
-RUN pip install -r requirements.txt
+RUN pip install -r requirements.txt  ## Installs all Python dependencies.
 
-COPY . .
+COPY . .      ## Copy code into the container.
 
-EXPOSE 5000
+EXPOSE 5000   ## Expose user port 5000.
 
-CMD ["python", "app.py"]
+CMD ["python", "app.py"]    ## Starts the Python application.
 ```
 
 ---
@@ -25,7 +25,7 @@ FROM node:20
 
 WORKDIR /app
 
-COPY package*.json ./
+COPY package*.json ./   ## required Node.js dependencies and stores the exact dependency versions.
 
 RUN npm install
 
