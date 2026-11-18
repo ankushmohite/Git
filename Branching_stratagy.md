@@ -9,12 +9,11 @@ There are mainly 4 branches:
 In this branch, latest development code is maintained here.
 
 2. Release Branch.
-   
-we create a release branch for every new release. so, We use this branch for final testing and release activities.
+We use this branch for final testing and release activities.
 
-3. Feature Branch.
+4. Feature Branch.
    
-we create a separate feature new branch for every new feature. so, Developers develop and test the feature in this branch.
+we create a separate feature branch for every new feature. so, Developers develop and test the feature in this branch.
 
 4. Bug Fix Branch.
    
